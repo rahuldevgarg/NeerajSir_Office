@@ -10,8 +10,8 @@
 
 
 // Set these to run example.
-#define FIREBASE_HOST "cabin-34fc5.firebaseio.com"
-#define FIREBASE_AUTH "iy7pnElovq21P152MqcEOvnGPOF4hbomFVRgufAW"
+#define FIREBASE_HOST "cabin-xxxx.firebaseio.com"
+#define FIREBASE_AUTH "iy7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAW"
 #define WIFI_SSID "Ripple Factor"
 #define WIFI_PASSWORD "qazwsxm123"
 
